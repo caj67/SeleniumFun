@@ -13,5 +13,4 @@ driver.get("https://SupremeNewYork.com/shop")
 #we need to get a workaround
 #going to be copied from stack overflow
 #https://stackoverflow.com/questions/8344776/can-selenium-interact-with-an-existing-browser-session
-#could also just open the comments early
-# not yet working
+#could also just open the browser early
