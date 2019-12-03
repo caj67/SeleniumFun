@@ -5,7 +5,8 @@ from selenium import *
 # right click on chromedriver.exe copy the path, and paste it after the r
 
 driver = webdriver.Chrome(fp)
-
+# here is your file path Barl
+# "C:\Users\Carl\PycharmProjects\seleniumtest2\drivers\chromedriver.exe"
 
 driver.get("https://SupremeNewYork.com/shop")
 # driver.maximize_window()
