@@ -1,0 +1,7 @@
+# Ignore MAC OS stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore pycharm stuff
+.idea
