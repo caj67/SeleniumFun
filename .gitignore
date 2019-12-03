@@ -5,3 +5,6 @@
 
 # Ignore pycharm stuff
 .idea
+
+# File path file
+driver_file_path.py
