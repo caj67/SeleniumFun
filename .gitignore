@@ -9,3 +9,6 @@
 # File path file
 driver_file_path.py
 __pycache__/driver_file_path.cpython-37.pyc
+
+#ignore personal info
+info.py
